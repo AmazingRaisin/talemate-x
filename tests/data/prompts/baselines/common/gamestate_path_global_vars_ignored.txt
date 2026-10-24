@@ -1,9 +1,0 @@
-## Gamestate
-Path: vegu_status
-Data format: json
-
-```json
-{
-  "from": "scene"
-}
-```

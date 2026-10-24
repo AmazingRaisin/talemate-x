@@ -1,6 +1,0 @@
-Fix JSON syntax in the following code block without changing the structure.
-Remove comments and only return the corrected JSON block.
-
-```json
-{ "test_pin": { {"test_pin": {"condition": "The hero is in danger", "state": true}}
-```

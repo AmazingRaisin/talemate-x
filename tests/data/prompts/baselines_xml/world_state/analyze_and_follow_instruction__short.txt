@@ -1,8 +1,0 @@
-Content context: Fantasy adventure story
-
-Short text.
-
-<TASK>
-Summarize.
-</TASK>
-The length of your response must fit within 4 paragraphs.

@@ -1,7 +1,0 @@
-## Gamestate
-Path: player/state
-Data format: json
-
-```json
-"ready"
-```
